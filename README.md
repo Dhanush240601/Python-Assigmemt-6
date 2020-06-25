@@ -1,7 +1,7 @@
 # Python-Assigmemt-6
 
 
-[25/06, 7:56 pm] Vennala GR: def input(n):
+[25/06, 7:56 pm]  def input(n):
 	 if n in range(3,9):
 	  print("number is in given range",n)
 	 else:
